@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APPREVISAO</string>
+    <string name="texto">Insira dois números</string>
+    <string name="numero1">número 1</string>
+    <string name="numero2">número 2</string>
+    <string name="botao">Teste</string>
+</resources>
